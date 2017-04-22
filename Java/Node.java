@@ -11,11 +11,11 @@ public class Node {
         this.someNumber = someNumber;
     }
 
-    public getNextNode(){
+    public Node getNextNode(){
         return this.nextNode;
     }
 
-    pubic setNextNode(Node nextNode){
+    public void setNextNode(Node nextNode){
         this.nextNode = nextNode;
     }
 

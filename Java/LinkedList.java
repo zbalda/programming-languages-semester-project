@@ -32,7 +32,7 @@ public class LinkedList {
     }
 
     /* deletes the first node in the list */
-    public Node deleteFirst(){
+    public Node removeFirst(){
         if(first == null){
             return null;
         } else {
@@ -43,7 +43,7 @@ public class LinkedList {
     }
 
     /* deletes the last node in the list */
-    public Node deleteLast(){
+    public Node removeLast(){
         if(first == null){
             return null;
         } else if (first.getNextNode() == null){
