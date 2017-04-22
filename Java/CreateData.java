@@ -19,5 +19,7 @@ public class CreateData {
             Node temp = new Node(tempInt);
             myList.insertAtBeginning(temp);
         }
+    
+    }
 
 }
