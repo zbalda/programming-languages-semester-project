@@ -2,16 +2,13 @@ public class Node {
 
     private Node nextNode;
     private int someNumber;
-    private int someString;
 
     Node(){
         someNumber = 516;
-        someString = "Hello.";
     }
 
-    Node(int someNumber, String someString){
+    Node(int someNumber){
         this.someNumber = someNumber;
-        this.someString = someString;
     }
 
     public getNextNode(){
