@@ -50,5 +50,5 @@ Prediction: Java should act the same, Python probably won't do as well.
 
 Results: TBD
 
-### Test 6: Scheduled Tasks
+### Test 6: Scheduled Service
 For this test, we create some scheduled task for some time interval that produces an error when that task is unable to be performed on time (from garbage collection freezeup). We use tests 3, 4, and 5 for creating and deleting data, and test for each Java garbage collection method.
