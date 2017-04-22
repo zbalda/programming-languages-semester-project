@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 public class CreateData {
 
@@ -21,11 +21,16 @@ public class CreateData {
         }
 
         // TEMP TEST
+        System.out.println("Created Linked List of " + amount + " ints.");
         Node temp = new Node();
         myList.insertAtEnd(temp);
+        System.out.println("Inserted node at end of list.");
         myList.removeFirst();
+        System.out.println("Removed first node in list.");
         myList.removeLast();
+        System.out.println("Removed last node in list.");
         myList.clear();
+        System.out.println("Cleared list");
 
     }
 
