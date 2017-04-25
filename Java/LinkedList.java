@@ -31,6 +31,12 @@ public class LinkedList {
         }
     }
 
+    /* inserts node and creates a cycle such that the inserted node points back to first */
+    public void insertCycle(Node node){
+        node.setNextNode(first);
+        insertAtEnd(node);
+    }
+
     /* deletes the first node in the list */
     public Node removeFirst(){
         if(first == null){
