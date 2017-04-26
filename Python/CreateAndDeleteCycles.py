@@ -29,7 +29,7 @@ class CreateAndDeleteCycles ():
             sleep(self.delaymilisec)
             mylist.removefirst()
 
-test = CreateAndDeleteCycles(10000, 100, 10000, 1, 2)
+test = CreateAndDeleteCycles(10000, 100, 10000, .001, 2)
 test.runtest()
 
 #print(
