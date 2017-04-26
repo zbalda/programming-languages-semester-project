@@ -37,7 +37,7 @@ class CreateThenDeleteData():
         mylist.clear()
 
 
-test = CreateThenDeleteData(10000, 1)
+test = CreateThenDeleteData(10000, .001)
 test.createThenDeleteData()
 test.createThenDeleteAllData()
 
