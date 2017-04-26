@@ -20,7 +20,7 @@ class CreateData():
             mylist.insertatbeginning
 
 
-test = CreateData(10000, 1)
+test = CreateData(10000, .001)
 test.createData()
 
 # print(
