@@ -1,0 +1,1199 @@
+top - 11:04:12 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us,  2.6 sy,  0.0 ni, 91.8 id,  0.1 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  162876   3220   1608 R   5.6  0.0   0:00.01
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.00
+
+top - 11:04:12 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.03
+ 53222 tcriss    20   0  163588   6820   3272 S  18.2  0.0   0:00.02
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:12 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   3 running, 1099 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.6 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.03
+ 53222 tcriss    20   0  163588   6820   3272 R   0.0  0.0   0:00.02
+
+top - 11:04:12 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.05
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.02
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.05
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.02
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.06
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.03
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.07
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.03
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  3.1 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.08
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.03
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.10
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.04
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.10
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.04
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.11
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.04
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.12
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.05
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:13 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  10.0  0.0   0:00.13
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.05
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  3.1 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.14
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.05
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.15
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.06
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.16
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.07
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   3 running, 1099 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.17
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 R   0.0  0.0   0:00.07
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.18
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.07
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.19
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.07
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.20, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.20
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.07
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  3.1 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.08
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.20
+
+top - 11:04:14 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404724 free,  3627556 used, 28498856 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073744 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.22
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.08
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   3 running, 1099 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.23
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.08
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.24
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.09
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.24
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.09
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  3.1 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.26
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.10
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.26
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.10
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.27
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.10
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.28
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.11
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.29
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.11
+
+top - 11:04:15 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.31
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.11
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.6 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.12
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.31
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.32
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.12
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.34
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.12
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.6 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.13
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.34
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.35
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.13
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.36
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.13
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.37
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.13
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1103 total,   3 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  3.1 sy,  0.0 ni, 96.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.37
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.13
+
+top - 11:04:16 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.2 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.39
+ 53222 tcriss    20   0  163588   6820   3272 S  18.2  0.0   0:00.15
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.40
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.15
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.41
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.15
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.42
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.16
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.43
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.16
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.43
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.16
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.45
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.16
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S  10.0  0.0   0:00.17
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.45
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.47
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.17
+
+top - 11:04:17 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.3 id,  0.3 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.48
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.17
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   404016 free,  3628312 used, 28498808 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20073044 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.49
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.17
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.50
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.18
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.51
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.19
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.3 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.51
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.19
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.53
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.19
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.53
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.19
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.55
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.20
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.55
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.20
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.56
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.20
+
+top - 11:04:18 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.57
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.20
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S  18.2  0.0   0:00.22
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.58
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.59
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.22
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.60
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.22
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.61
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.22
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.62
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.23
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.26, 1.50, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.63
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.23
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   3 running, 1099 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  3.1 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.64
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.23
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.65
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.23
+
+top - 11:04:19 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.66
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.24
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.67
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.24
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.68
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.24
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.68
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.24
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.70
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.25
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.26
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.70
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.72
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.26
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.27
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.72
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.73
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.27
+
+top - 11:04:20 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403584 free,  3628620 used, 28498932 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072636 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  20.0  0.0   0:00.75
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.27
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.75
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.27
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.76
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.28
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.77
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.28
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.78
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.28
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.79
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.29
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  3.1 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.80
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.29
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.81
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.29
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.82
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.30
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:21 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   3 running, 1099 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  3.3 sy,  0.0 ni, 95.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.84
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.30
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.8 sy,  0.0 ni, 95.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   8.3  0.0   0:00.31
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.84
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.85
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.31
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.87
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.31
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.87
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.31
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.5 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  18.2  0.0   0:00.89
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.31
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.32
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53221 tcriss    20   0  163904   3336   1664 R   0.0  0.0   0:00.89
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.90
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.32
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R  10.0  0.0   0:00.91
+ 53222 tcriss    20   0  163588   6820   3272 S  10.0  0.0   0:00.33
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:22 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.92
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.33
+
+top - 11:04:23 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.93
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.34
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:23 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.94
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.34
+
+top - 11:04:23 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.95
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.34
+
+top - 11:04:23 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.96
+ 53222 tcriss    20   0  163588   6820   3272 S   9.1  0.0   0:00.35
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+
+top - 11:04:23 up 75 days,  2:39, 16 users,  load average: 1.24, 1.49, 1.4
+Tasks: 1102 total,   2 running, 1100 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0
+KiB Mem : 32531136 total,   403832 free,  3628352 used, 28498952 buff/cach
+KiB Swap: 16383996 total, 13704228 free,  2679768 used. 20072904 avail Mem
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 53221 tcriss    20   0  163904   3336   1664 R   9.1  0.0   0:00.97
+ 47581 tcriss    20   0  147644   2420   1120 S   0.0  0.0   0:00.04
+ 47582 tcriss    20   0  121072   3792   1932 S   0.0  0.0   0:00.20
+ 53222 tcriss    20   0  163588   6820   3272 S   0.0  0.0   0:00.35
