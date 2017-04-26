@@ -1,10 +1,11 @@
 from time import sleep
 import traceback
-from LinkedList2D import LinkedList2D
-from Node2D import Node2D
+import random
+from LinkedList import LinkedList
+from Node import Node
 
-class CreateAndDeleteCycles ():
 
+class CreateAndDeleteNodes():
     def __init__(self, initsize=0, listsize=0, inserts=0, delaymilisec=0, rate=0):
         self.initsize = initsize
         self.listsize = listsize
@@ -13,32 +14,33 @@ class CreateAndDeleteCycles ():
         self.rate = rate
 
     def runtest(self):
-        mylist = LinkedList2D.initialize()
+        mylist = LinkedList.initialize()
 
-        for i in range(self.listsize):
-            tempnode = Node2D.initialize()
-            tempnode.populatecycle(self.listsize)
+        for i in range(self.initsize):
+            tempint = random.randint(1, 2147483647)
+            tempnode = Node.initializewithargs(tempint)
             mylist.insertatbeginning(tempnode)
 
         for i in range(self.inserts):
             for i in range(self.rate):
                 sleep(self.delaymilisec)
-                tempnode = Node2D.initialize()
-                tempnode.populatecycle(self.listsize)
+                tempint = random.randint(1, 2147483647)
+                tempnode = Node.initializewithargs(tempint)
                 mylist.insertatend(tempnode)
             sleep(self.delaymilisec)
             mylist.removefirst()
 
-test = CreateAndDeleteCycles(10000, 100, 10000, 1, 2)
+
+test = CreateAndDeleteNodes(10000, 100, 10000, 1, 2)
 test.runtest()
 
-#print(
+# print(
 #    str(test.listsize) + ' ' +
 #    str(test.initsize) + ' ' +
 #    str(test.inserts) + ' ' +
 #    str(test.delaymilisec) + ' ' +
 #    str(test.rate)
-#)
+# )
 
 
 
