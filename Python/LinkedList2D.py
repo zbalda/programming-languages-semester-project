@@ -1,29 +1,27 @@
-from Node import Node
+from Node2D import Node2D
 
-class LinkedList:
 
-    def __init__(self):
+class LinkedList2D ():
+
+    def __index__(self):
         self.first = None
 
-# default constructor: list is empty
     @classmethod
     def initialize(cls):
         ll = cls()
+        ll.first = None
         return ll
 
-# overloaded constructor: list is set for an intial first node
     @classmethod
     def initializewithargs(cls, somenode):
         ll = cls()
         ll.first = somenode
         return ll
 
-# inserts a node at the beginning of the list
-    def insertatbeginning(self, argnode):
-        argnode.setnextnode(self.first)
-        self.first = argnode
+    def insertatbeginning(self, somenode):
+        somenode.setnextnode(self.first)
+        self.first = somenode
 
-# inserts a node at the end of the list
     def insertatend(self, argnode):
         if self.first == None:
             self.first = argnode
@@ -31,14 +29,8 @@ class LinkedList:
             tempnode = self.first
             while(tempnode.getnextnode() != None):
                 tempnode = tempnode.getnextnode()
-            tempnode.setnextnode((argnode))
+            tempnode.setnextnode(argnode)
 
-# inserts node and creates a cycle such that the inserted node points back to first
-    def insertcycle(self, argnode):
-        argnode.setnextnode((self.first))
-        self.insertatend(argnode)
-
-# /* deletes the first node in the list */
     def removefirst(self):
         if self.first == None:
             return None
@@ -47,11 +39,14 @@ class LinkedList:
             self.first = self.first.getnextnode()
             return tempnode
 
-#/* deletes the last node in the list */
     def removelast(self):
         if self.first == None:
             return None
         elif self.first.getnextnode() == None:
+            tempnode = self.first
+            self.first = None
+            return tempnode
+        else:
             tempnode1 = self.first
             tempnode2 = self.first.getnextnode()
             while tempnode2.getnextnode() != None:
@@ -60,6 +55,5 @@ class LinkedList:
             tempnode1.setnextnode(None)
             return tempnode2
 
-#/* clears the list by setting first to null */
     def clear(self):
         self.first = None

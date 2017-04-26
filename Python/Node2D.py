@@ -4,8 +4,8 @@ from Node import Node
 
 class Node2D(object):
 
-    def __init__(self):
-        self.nextNode = None
+    def __init__(self, nextnode=None):
+        self.nextNode = nextnode
         self.list = LinkedList.initialize()
 
     @classmethod
