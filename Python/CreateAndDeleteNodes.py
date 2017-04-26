@@ -31,7 +31,7 @@ class CreateAndDeleteNodes():
             mylist.removefirst()
 
 
-test = CreateAndDeleteNodes(10000, 100, 10000, 1, 2)
+test = CreateAndDeleteNodes(10000, 100, 10000, .001, 2)
 test.runtest()
 
 # print(
