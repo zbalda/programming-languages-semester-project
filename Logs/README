@@ -1,0 +1,11 @@
+Logs are created with
+$ top -b -d .1 -u tcriss >> logs/testName_runNumber.txt & java testName; killall top
+
+Logs are parsed with 
+$ cat testName_runNumber.txt | grep java | cut -c 50-53 | nl > log_CPU.txt
+
+Cut Guide:
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 33948 tcriss    20   0 12.362g  24152  11096 S   0.0  0.1   0:00.31 java
+                        24    30 33   3840   45   50 5355 58
+
