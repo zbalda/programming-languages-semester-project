@@ -1,0 +1,1175 @@
+top - 22:21:04 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.1 us,  2.6 sy,  0.0 ni, 92.1 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  162764   3164   1608 R  11.8  0.0   0:00.02 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.00 python
+
+top - 22:21:04 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.03 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.01 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.03 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.01 python
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.05 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.01 python
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.05 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.01 python
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.06 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.02 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.6 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.08 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.02 python
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.08 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.02 python
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   3 running, 1034 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.10 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.03 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.10 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.03 python
+
+top - 22:21:05 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.11 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.03 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.12 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.03 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.14 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.03 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.04 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.14 top
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.15 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.04 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.17, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.16 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.04 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.6 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.17 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.04 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.3 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.18 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.04 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.19 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.04 python
+
+top - 22:21:06 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028256 free,  5125592 used, 25377288 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281556 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.20 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.05 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.20 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  4.8 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.21 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.23 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  2.8 sy,  0.0 ni, 96.0 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.24 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 95.4 id,  1.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.25 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.26 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.27 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.05 python
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.06 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.27 top
+
+top - 22:21:07 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.29 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.06 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.30 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.06 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.31 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.06 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.31 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.06 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  20.0  0.0   0:00.33 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.06 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.07 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.33 top
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.35 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.07 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.35 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.07 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.36 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.07 python
+
+top - 22:21:08 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.38 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.07 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.3 sy,  0.0 ni, 96.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.38 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.07 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.39 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.08 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.3 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.41 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.09 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.41 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.09 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.42 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.09 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.43 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.09 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.44 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.09 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.6 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.45 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.10 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.46 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.10 python
+
+top - 22:21:09 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   3 running, 1034 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2028640 free,  5125192 used, 25377304 buff/cache
+KiB Swap: 16383996 total,  8490428 free,  7893568 used. 23281944 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.47 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.10 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.48 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.10 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.49 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.10 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.50 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.10 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.51 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.10 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.52 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.11 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.53 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.11 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.54 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.11 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.55 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.11 python
+
+top - 22:21:10 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.56 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.11 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.56 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.11 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.58 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.11 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.12 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.58 top
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.59 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.12 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.06, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.61 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.13 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.61 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.13 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.63 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.13 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.63 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.13 python
+
+top - 22:21:11 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.64 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.13 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.65 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.13 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.66 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.14 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.67 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.14 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  10.0  0.0   0:00.68 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.14 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.69 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.14 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.70 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.14 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.71 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.14 python
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.72 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.15 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:12 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027276 free,  5126536 used, 25377324 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23280592 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.73 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.15 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.74 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.15 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.75 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.15 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.76 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.15 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.3 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.76 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.15 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.78 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.16 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.78 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.16 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.80 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.16 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.80 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.16 python
+
+top - 22:21:13 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.81 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.16 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.82 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.16 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.3 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.83 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.17 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.84 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.17 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.85 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.18 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.3 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.86 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.18 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.87 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.18 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  2.9 sy,  0.0 ni, 96.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.88 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.18 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  2.8 sy,  0.0 ni, 96.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.89 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.18 python
+
+top - 22:21:14 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.90 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.18 python
+
+top - 22:21:15 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.6 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.91 top
+150809 tcriss    20   0  163592   6824   3272 S   9.1  0.0   0:00.19 python
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+
+top - 22:21:15 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.6 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R   9.1  0.0   0:00.92 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.19 python
+
+top - 22:21:15 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   3 running, 1034 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  10.0  0.0   0:00.93 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 R   0.0  0.0   0:00.19 python
+
+top - 22:21:15 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150808 tcriss    20   0  163792   3268   1664 R   0.0  0.0   0:00.93 top
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.19 python
+
+top - 22:21:15 up 81 days, 13:56,  8 users,  load average: 1.05, 1.16, 1.20
+Tasks: 1037 total,   2 running, 1035 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  2.9 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32531136 total,  2027648 free,  5126144 used, 25377344 buff/cache
+KiB Swap: 16383996 total,  8490432 free,  7893564 used. 23281000 avail Mem 
+
+   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+150808 tcriss    20   0  163792   3268   1664 R  18.2  0.0   0:00.95 top
+149053 tcriss    20   0  147804   2528   1176 S   0.0  0.0   0:00.11 sshd
+149054 tcriss    20   0  121072   3844   1932 S   0.0  0.0   0:00.70 bash
+150809 tcriss    20   0  163592   6824   3272 S   0.0  0.0   0:00.19 python
