@@ -15,7 +15,7 @@
 ## Tests
 
 ### Test 1: Create Data
-For this test, we create a linked list of 1K, 10K, 100K, 1M, 10M,  100M, and 1B integers.
+For this test we create a linked list of 1K, 10K, 100K, 1M, 10M,  100M, and 1B integers.
 
 Prediction: Java will perform garbage collection only to move memory from newer to older memory spaces (if need be). Because Python also uses memory spaces, it will likely do the same. 
 
